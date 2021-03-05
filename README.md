@@ -1,14 +1,14 @@
 # ILhamuserbot
-<a href="https://cooltext.com"><img src="content://media/external/downloads/2710" width="473" height="82" alt="LORD USERBOT" /></a>
+<a href="https://r73.cooltext.com/d.php?renderid=378272201503634&extension=gif"><img src="content://media/external/downloads/2710" width="473" height="82" alt="ILham UserBot" /></a>
 
 
 <p align="center">
   <a href="https://github.com/ilham178/ILhamuserbot">
-    <img src="content://media/external/downloads/2710">
+    <img src="https://r73.cooltext.com/d.php?renderid=378272201503634&extension=gif">
     
   </a>
   <a href="https://github.com/ilham178/ILhamuserbot">
-    <img src="content://media/external/downloads/2710">
+    <https://r73.cooltext.com/d.php?renderid=378272201503634&extension=gif">
   </a>
 </p>  
 
