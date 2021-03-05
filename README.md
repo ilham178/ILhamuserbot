@@ -1,5 +1,5 @@
 # ILhamuserbot
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5501763.gif" width="473" height="82" alt="LORD USERBOT" /></a>
+<a href="https://cooltext.com"><img src="content://media/external/downloads/2710" width="473" height="82" alt="LORD USERBOT" /></a>
 
 
 <p align="center">
