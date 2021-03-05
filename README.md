@@ -44,6 +44,7 @@ Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](htt
 Atau Bisa Gabung Ke Grup ILham Userbot -> [TEKAN DISINI](https://t.me/LordUserbot_Group)
 ## <p align="center">DEPLOY ILham-USERBOT</p>
 
+https://repl.it/@Ilhammansiz188/String-Sesson-Lord#README.md
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ilham178/ILhamuserbot"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
@@ -67,3 +68,5 @@ TERIMAKASIH UNTUK
 *   [Sahyam2019](https://github.com/sahyam2019/oub-remix) - oub-remix
 *   [TeamUserge](https://github.com/UsergeTeam/Userge) - Userge
 *   DAN BANYAK LAGI 
+
+
