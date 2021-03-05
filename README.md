@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://github.com/ilham178/ILhamuserbot">
-    <img src="https://img.shields.io/github/forks/Zora24/Lord-Userbot?label=Fork&style=social">
+    <img src="content://media/external/downloads/2710">
     
   </a>
   <a href="https://github.com/ilham178/ILhamuserbot">
-    <img src="https://img.shields.io/github/stars/Zora24/Lord-Userbot?style=social">
+    <img src="content://media/external/downloads/2710">
   </a>
 </p>  
 
